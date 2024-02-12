@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ffed3db4-b950-4df4-9cc2-17e566f05016" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Practica_taller/src/CarlaMireia_Taller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practica_taller" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_taller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practica_taller/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practica_taller/.idea/misc.xml" beforeDir="false" />
@@ -30,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Carla&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/carla/OneDrive/Escritorio/codebase web grupo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Carla",
+    "last_opened_file_path": "C:/Users/carla/OneDrive/Escritorio/MireiaCarla_Taller"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
